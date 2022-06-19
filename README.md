@@ -10,4 +10,4 @@ realizadas durante os seguintes conteúdos/vídeos:
      - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/PlacideBoy/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
 
 3. Java e Kotlin Juntos!? Construindo Apps Android
-     - [release/java-e-kotlin-juntos-construindo-apps-android]([https://github.com/PlacideBoy/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android))
+     - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/PlacideBoy/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
